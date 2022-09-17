@@ -1,7 +1,7 @@
 # albert-gnome-calculator
 An extension for [albert lanucher](https://albertlauncher.github.io/) in Linux to calculate equations using gnome calculator. Gnome calculator must be installed.
 
-![](screenshots/screenshot1.png)
+![alt](screenshots/screenshot1.png)
 
 ## Installation Guide
 Clone this repository to `~/.local/share/albert/org.albert.extension.python/modules`
