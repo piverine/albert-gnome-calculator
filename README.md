@@ -10,5 +10,4 @@ git clone https://github.com/piverine/albert-gnome-calculator.git $HOME/.local/s
 ```
 Enable `gnome-calculator` plugin in `albert settings - Extensions - Python`
 
-If you like my work you can
 
