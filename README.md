@@ -40,6 +40,7 @@ To use this extension, ensure the following are installed:
 - **Basic Arithmetic**: `calc 5 + 3 * 2`
 - **Trigonometric Functions**: `calc sin(45) + cos(30)`
 - **Exponential and Logarithmic Functions**: `calc e^2 + log(10)`
+- Supports every type of expression that gnome calculator can compute.
 
 ## Troubleshooting
 
