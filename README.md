@@ -1,7 +1,6 @@
 
 
 ![alt](screenshots/screenshot1.jpg)
-
 # Albert-Gnome-Calculator
 
 **Albert-Gnome-Calculator** is an extension for the [Albert launcher](https://albertlauncher.github.io/) in Linux that enables users to perform advanced mathematical calculations directly within Albert using the GNOME Calculator as the backend. This extension is especially useful for those who need quick calculations without switching applications.
@@ -35,7 +34,7 @@ To use this extension, ensure the following are installed:
    ```
    calc sin(30) + e^tan(60)
    ```
-3. Press Enter, and the result will be displayed using GNOME Calculator.
+3. The result is displayed below the expression
 
 ### Examples
 - **Basic Arithmetic**: `calc 5 + 3 * 2`
